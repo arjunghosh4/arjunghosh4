@@ -24,6 +24,6 @@ I possess experience in product management, and have earned a Certified Scrum Pr
 
 * **Email:** [arjunghosh0497@gmail.com]
 * **LinkedIn:** [www.linkedin.com/in/ghosharjun]
-* **GitHub:** [Your GitHub profile]
+* **GitHub:** [[Your GitHub profile](https://github.com/arjunghosh4)]
 
 **Let's connect!**
