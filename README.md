@@ -15,11 +15,12 @@ I possess experience in product management, and have earned a Certified Scrum Pr
 
 **Projects**
 
-* **[Project 1]:** [Web App for your own Spotify Wrapped 2024]
-  [https://github.com/arjunghosh4/spotifywrapped.git]
-* **[Project 2]:** [AI Automated Email Response System using NLP and BERT]
+* **[Project 1]:** [AI Automated Email Response System using NLP and BERT]
   [https://github.com/arjunghosh4/AI_EmailResponse_System.git]
-
+* **[Project 2]:** [Web App for your own Spotify Wrapped 2024]
+  [https://github.com/arjunghosh4/spotifywrapped.git]
+* **[Project 3]:** [Fare Prediction]
+  [https://github.com/arjunghosh4/Fare_Prediction.git]
 **Contact**
 
 * **Email:** [arjunghosh0497@gmail.com]
