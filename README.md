@@ -21,6 +21,7 @@ I possess experience in product management, and have earned a Certified Scrum Pr
   [https://github.com/arjunghosh4/spotifywrapped.git]
 * **[Project 3]:** [Fare Prediction]
   [https://github.com/arjunghosh4/Fare_Prediction.git]
+  
 **Contact**
 
 * **Email:** [arjunghosh0497@gmail.com]
