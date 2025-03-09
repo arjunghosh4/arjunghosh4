@@ -23,7 +23,7 @@ I possess experience in product management, and have earned a Certified Scrum Pr
 * **Fare Prediction**
   [https://github.com/arjunghosh4/Fare_Prediction.git]
 
-**Projects**
+**Visualization Projects**
 
 * **Superstore Sales Analysis**
   [https://public.tableau.com/views/SuperstoreSales_17415481669970/SalesAnalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link]
