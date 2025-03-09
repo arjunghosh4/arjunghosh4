@@ -6,13 +6,6 @@ I am a data-driven product professional with a background in electronics enginee
 
 I possess experience in product management, and have earned a Certified Scrum Product Owner (CSPO) certification. Through my work at Tata Consultancy Services, I have gained skills in cloud migration, automation, and data analysis. 
 
-**Skills**
-
-* **Programming Languages:** Python, JavaScript, PySpark, Java, HTML, CSS
-* **Libraries:** NumPy, Pandas, matplotlib, Scikit-Learn, NLTK, Tkinter
-* **Tools & Technologies:** AWS, Git, Docker, Tableau, Microsoft Office Suite, Visual Studio Code
-* **Other Skills:** problem-solving, stakeholder communication, product management skills, Agile Way of Working, Product Vision and Market Fit
-
 **Projects**
 
 * **AI Automated Email Response System using NLP and BERT**
@@ -29,7 +22,14 @@ I possess experience in product management, and have earned a Certified Scrum Pr
   [https://github.com/arjunghosh4/spotifywrapped.git]
 * **Fare Prediction**
   [https://github.com/arjunghosh4/Fare_Prediction.git]
-   
+
+**Skills**
+
+* **Programming Languages:** Python, JavaScript, PySpark, Java, HTML, CSS
+* **Libraries:** NumPy, Pandas, matplotlib, Scikit-Learn, NLTK, Tkinter
+* **Tools & Technologies:** AWS, Git, Docker, Tableau, Microsoft Office Suite, Visual Studio Code
+* **Other Skills:** problem-solving, stakeholder communication, product management skills, Agile Way of Working, Product Vision and Market Fit
+
 **Contact**
 
 * **Email:** [arjunghosh0497@gmail.com]
