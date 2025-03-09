@@ -23,6 +23,18 @@ I possess experience in product management, and have earned a Certified Scrum Pr
 * **Fare Prediction**
   [https://github.com/arjunghosh4/Fare_Prediction.git]
 
+**Projects**
+
+* **Superstore Sales Analysis**
+  [https://public.tableau.com/views/SuperstoreSales_17415481669970/SalesAnalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link]
+* **Fleet Operations**
+  [https://public.tableau.com/views/FleetOperations/WeeklyStatus?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link]
+* **Fake News Analysis**
+  [https://public.tableau.com/views/FakeNewsAnalysis_17354038570120/FakeNewsAnalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link]
+* **Fare Prediction**
+  [https://public.tableau.com/views/FarePredictionProject/DataAnalysisDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link] 
+  
+  
 **Skills**
 
 * **Programming Languages:** Python, JavaScript, PySpark, Java, HTML, CSS
